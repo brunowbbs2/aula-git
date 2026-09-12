@@ -1,4 +1,6 @@
 public class Clientes {
+
+    System.Logger logger = System.getLogger(Clientes.class.getName());
     
     private String nome;
 
